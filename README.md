@@ -1,9 +1,9 @@
 # Achievers-Academy
-This is an Educational app provide 
+This is an Educational app which provide 
 
-~ Online Tutorials of Multiple Subjects  
+~ Online Tutorials   
 ~ Online Compiler and 
-~ Online Notes for Students  
+~ Online Notes of Multiple Subjects for Students  
 
 
 ~ IDE used Android Studio 

@@ -3,7 +3,7 @@ This is an Educational app which provide
 
 ~ Online Tutorials   
 ~ Online Compiler and 
-~ Online Notes of Multiple Subjects for Students  
+~ Online Notes of Multiple Programming Languages for Students  
 
 
 ~ IDE used Android Studio 

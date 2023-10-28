@@ -20,8 +20,8 @@ Screenshots
 
 ![Screenshot_20231003-234919](https://github.com/arihantjain-aj/Achievers-Academy/assets/121403074/55020bcd-27c5-4008-8f00-16b715ffdb22)
 
-![Screenshot_20231003-234932](https://github.com/arihantjain-aj/Achievers-Academy/assets/121403074/04e5801d-e159-4104-ba27-ea2eeb248871)
-
 ![Screenshot_20231003-230200_1](https://github.com/arihantjain-aj/Achievers-Academy/assets/121403074/4741a032-c5bf-4e41-956d-4ec8ab4a9904)
+
+![Screenshot_20231003-234932](https://github.com/arihantjain-aj/Achievers-Academy/assets/121403074/04e5801d-e159-4104-ba27-ea2eeb248871)
 
 ![Screenshot_20231003-230222_1](https://github.com/arihantjain-aj/Achievers-Academy/assets/121403074/601ae8eb-b323-402b-bafe-4a1ef2841837)

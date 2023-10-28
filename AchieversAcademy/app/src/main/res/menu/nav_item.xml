@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tutorial"
+        android:title="Tutorials"
+        android:icon="@drawable/tutorials"/>
+    <item
+        android:id="@+id/notes"
+        android:title="Notes (pdf)"
+        android:icon="@drawable/notes"/>
+    <item
+        android:id="@+id/compiler"
+        android:title="Compiler"
+        android:icon="@drawable/compiler"/>
+    <item
+        android:id="@+id/about_us"
+        android:title="About Us"
+        android:icon="@drawable/about"/>
+
+
+</menu>
